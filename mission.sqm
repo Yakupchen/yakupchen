@@ -6,12 +6,12 @@ class Mission
 	addOns[]=
 	{
 	  "exile_client",
-    "A2OP"
+    	  "A2OP"
 	};
 	addOnsAuto[]=
 	{
-		"exile_client",
-    "A2OP"
+	  "exile_client",
+   	  "A2OP"
 	};
 	randomSeed=5728479;
 	class Intel
@@ -1262,11 +1262,11 @@ class Intro
 {
 	addOns[]=
 	{
-		"A2OP"
+	  "A2OP"
 	};
 	addOnsAuto[]=
 	{
-		"A2OP"
+	  "A2OP"
 	};
 	randomSeed=1884939;
 	class Intel
@@ -1292,11 +1292,11 @@ class OutroWin
 {
 	addOns[]=
 	{
-		"A2OP"
+	  "A2OP"
 	};
 	addOnsAuto[]=
 	{	
-		"A2OP"
+	  "A2OP"
 	};
 	randomSeed=3683996;
 	class Intel
@@ -1322,11 +1322,11 @@ class OutroLoose
 {
 	addOns[]=
 	{
-		"A2OP"
+	  "A2OP"
 	};
 	addOnsAuto[]=
 	{
-		"A2OP"
+	  "A2OP"
 	};
 	randomSeed=14948090;
 	class Intel
